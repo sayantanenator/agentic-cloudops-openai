@@ -1,0 +1,8 @@
+name: infra-architecture
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: A minimal Azure Native Function in Python with Pulumi program
+backend:
+  url: file://~

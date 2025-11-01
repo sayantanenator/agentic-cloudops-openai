@@ -1,0 +1,122 @@
+[
+  {
+    "text": "Microsoft Azure"
+  },
+  {
+    "text": "apim-subnet"
+  },
+  {
+    "text": "ase-subnet"
+  },
+  {
+    "text": "sglmi-subnet"
+  },
+  {
+    "text": "api"
+  },
+  {
+    "text": "<some-domain /external/apil"
+  },
+  {
+    "text": "SQL"
+  },
+  {
+    "text": "aumanager-apim"
+  },
+  {
+    "text": "aumanager-ase-linux"
+  },
+  {
+    "text": "aumanager-sqlmi"
+  },
+  {
+    "text": "Clients"
+  },
+  {
+    "text": "(App Service"
+  },
+  {
+    "text": "(SQL Managed"
+  },
+  {
+    "text": "(API Management)"
+  },
+  {
+    "text": "Environment)"
+  },
+  {
+    "text": "Instances}"
+  },
+  {
+    "text": "api.< scme-domainy/external/apil"
+  },
+  {
+    "text": "api .< scme"
+  },
+  {
+    "text": "domain / internal/apiz"
+  },
+  {
+    "text": "portal.<sore-domain>"
+  },
+  {
+    "text": "ag-subnet"
+  },
+  {
+    "text": "aks-subnet"
+  },
+  {
+    "text": "Internet"
+  },
+  {
+    "text": "External"
+  },
+  {
+    "text": "portal.<sora"
+  },
+  {
+    "text": "APIs"
+  },
+  {
+    "text": "domain>"
+  },
+  {
+    "text": "aumanager-ag"
+  },
+  {
+    "text": "aumanager-aks"
+  },
+  {
+    "text": "(Application Gateway)"
+  },
+  {
+    "text": "(Kubernetes Service)"
+  },
+  {
+    "text": "Web Application"
+  },
+  {
+    "text": "Firewall"
+  },
+  {
+    "text": "DDos"
+  },
+  {
+    "text": "Dead end (sinkpool)"
+  },
+  {
+    "text": "Protecton"
+  },
+  {
+    "text": "api.< scme-domain / internal/apiz"
+  },
+  {
+    "text": "Clients"
+  },
+  {
+    "text": "Microsoft"
+  },
+  {
+    "text": "Azure"
+  }
+]

@@ -1,0 +1,8 @@
+Subnet: apim-subnet
+Subnet: ase-subnet
+Subnet: sglmi-subnet
+SQL: aumanager-sqlmi
+Subnet: ag-subnet
+Subnet: aks-subnet
+Application Gateway: aumanager-ag
+AKS: aumanager-aks
