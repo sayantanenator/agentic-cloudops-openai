@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env/
+.venv/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Environment Files
+.env
+.env.local
+
+# Sensitive Information
+secrets.json
+config.ini
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Specific Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Dependency directories
+lib/
+libs/
+node_modules/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Specific project files
+*.sqlite3
+
+
